@@ -1,0 +1,4 @@
+host: ftp.scottthebarber.com
+username: scottthebarbercom
+password: Jacktheknife$2016
+port: 21

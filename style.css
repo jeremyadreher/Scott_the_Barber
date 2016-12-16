@@ -1,4 +1,5 @@
   body {
+
       font: 400 15px Lato, sans-serif;
       line-height: 1.8;
       color: #818181;
@@ -29,12 +30,16 @@
       font-size: 20px;
   }
 
+
   .jumbotron {
-      background-color: #003366;
+      background-image: url("razor.png");
+      background-position: contain;
+      background-repeat: no-repeat;
+      background-size: contain;
       color: white;
       padding: 100px 25px;
-      font-family: 'Dancing Script', cursive;
-      text-shadow: 5px 5px 10px black
+      font-family: 'oswald', sans-serif;
+      text-shadow: 5px 5px 10px black;
   }
 
   .container-fluid {
